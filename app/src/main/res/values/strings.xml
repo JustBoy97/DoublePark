@@ -1,9 +1,29 @@
 <resources>
     <string name="app_name">DoublePark</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_aboutus">About Us</string>
+
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="TextViewAboutUs">About Us</string>
+    <string name="TextViewMessage">DouldePark App is here to help the community!</string>
+    <string name="ButtonFeedback">FeedBack</string>
+    <string name="textViewSearchMessage">Search Car Plate</string>
+    <string name="SearchHint">ABC1234</string>
+    <string name="buttonSearch">Search</string>
+    <string name="textViewCarPlate">Car Plate</string>
+    <string name="textViewName">Name</string>
+    <string name="textViewEmail">Email</string>
+    <string name="textViewContact">Contact</string>
+    <string name="buttonEditProfile">Edit Profile</string>
+    <string name="buttonLogOut">Log out</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="buttonConfirm">Confirm</string>
+    <string name="title_activity_privacy_policy">PrivacyPolicyActivity</string>
+
 </resources>
